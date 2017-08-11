@@ -1,0 +1,51 @@
+0: K/D Ratio
+1: Win %
+2: Time Survived
+3: Rounds Played
+4: Wins
+5: Win Top 10 Ratio
+6: Top 10s
+7: Top 10 Rate
+8: Losses
+9: Rating
+10: Best Rating
+11: Best Rank
+12: Avg Dmg per Match
+13: Headshot Kills Pg
+14: Heals Pg
+15: Kills Pg
+16: Move Distance Pg
+17: Revives Pg
+18: Road Kills Pg
+19: Team Kills Pg
+20: Time Survived Pg
+21: Top 10s Pg
+22: Kills
+23: Assists
+24: Suicides
+25: Team Kills
+26: Headshot Kills
+27: Headshot Kill Ratio
+28: Vehicle Destroys
+29: Road Kills
+30: Daily Kills
+31: Weekly Kills
+32: Round Most Kills
+33: Max Kill Streaks
+34: Weapons Acquired
+35: Days
+36: Longest Time Survived
+37: Most Survival Time
+38: Avg Survival Time
+39: Win Points
+40: Walk Distance
+41: Ride Distance
+42: Move Distance
+43: Avg Walk Distance
+44: Avg Ride Distance
+45: Longest Kill
+46: Heals
+47: Revives
+48: Boosts
+49: Damage Dealt
+50: Knock Outs
