@@ -55,6 +55,7 @@ function showDOM(targetDom)
 
 function changeTeamSize(elm, size)
 {
+	mode = size;
 	switch (size) {
 		case 'solo':
 		  document.getElementById("modeSolo").className = "mode active";
@@ -71,7 +72,6 @@ function changeTeamSize(elm, size)
 		  document.getElementById("modeSolo").className = "mode";
 		  document.getElementById("modeSquad").className = "mode active";
 		  break;
-
 	}
 }
 function changeRegion (elm, mode)
@@ -85,6 +85,7 @@ function changeRegion (elm, mode)
 		else
 			child.className ="region active";
 	}
+	region = mode
 }
 
 function searchForUser ()
