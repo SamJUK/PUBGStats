@@ -1,3 +1,10 @@
+# CURRENTLY DOES NOT WORK
+# THE API WE FETCH PLAYER DATA FROM IS CURRENTLY DISABLED DUE TO BLUE STUDIOS RATE LIMITING
+# THE API WILL WE AVAILABLE AGAIN SOON WATCH FOR MORE INFO
+# https://pubgtracker.com/site-api
+# https://twitter.com/trackernetwork/status/925896362914299904
+
+
 # Readme
 ### Setup
  - Clone the repo
